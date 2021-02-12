@@ -1,6 +1,6 @@
 {
   "name": "ts-binary-install",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Install binary applications via npm/npx",
   "main": "lib/binary.js",
   "types": "lib/binary.d.ts",

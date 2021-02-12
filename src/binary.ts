@@ -129,4 +129,4 @@ class Binary {
   }
 }
 
-export default Binary;
+export = Binary;
